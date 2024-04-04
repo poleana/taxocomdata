@@ -1,2 +1,5 @@
-# taxocomdata
-Two public datasets to test taxocom on
+# TaxoCom Data
+Two public datasets to test TaxoCom on
+## NYT
+
+##ArXiv
