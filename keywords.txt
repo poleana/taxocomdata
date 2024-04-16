@@ -1,0 +1,1 @@
+['credito', 'pagamento', 'banco', 'informacoes', 'instituicao', 'operacoes', 'conta', 'pix', 'categoria', 'caso', 'valor', 'cambio', 'dados', 'operacao', 'cliente', 'recursos', 'prazo', 'cadastro', 'moeda', 'nao', 'processo', 'autorizacao', 'exterior', 'cartao', 'contrato', 'servico', 'cheque', 'financiamento', 'pessoa', 'emprestimo', 'registro']
